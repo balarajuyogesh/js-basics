@@ -7,5 +7,6 @@ if (parseInt(num1, 10) > parseInt(num2, 10)) {
 } else if(parseInt(num2, 10) > parseInt(num1, 10)) {
     console.log(`The greater number is: ${num2}`);
 } else {
+	
     console.log(`The numbers: ${num1} and ${num2} are equal`);
 } 
